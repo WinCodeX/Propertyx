@@ -6,7 +6,7 @@ class Account < ApplicationRecord
   has_many :properties
 
   def full_name
-    "Hezron K."
+    "Wincodex"
   end
 
   def company
